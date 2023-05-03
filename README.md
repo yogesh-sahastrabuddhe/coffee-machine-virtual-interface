@@ -14,3 +14,6 @@ pip install db.py
 step 2 download sqllite database reader
 
 thats it now you are ready to go 
+
+
+it willl be better if you  use it by creating vertual env 
